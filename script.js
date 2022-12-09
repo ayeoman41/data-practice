@@ -1,4 +1,9 @@
 function correct(){
 document.querySelector('.button')
-alert("Correct")
+alert("Correct!!!")
+}
+
+function no(){
+    document.querySelector('.button')
+    alert("Incorrect")
 }
